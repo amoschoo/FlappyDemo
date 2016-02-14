@@ -45,7 +45,5 @@ public class MenuState extends State {
         background.dispose();
         playBtn.dispose();
         System.out.println("Menu State Disposed");
-
-
     }
 }
